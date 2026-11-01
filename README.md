@@ -24,10 +24,10 @@
 | | Proyecto | Qué resuelve | Stack |
 |:-:|---|---|---|
 | 🛍️ | **[ivoiviart](https://github.com/mrtinaja/ivoiviart)** · *en producción* | Tienda online de arte con cobro por Mercado Pago | React · Vite · Firebase · Netlify Functions |
-| 🏠 | **[nuevacasa](https://github.com/mrtinaja/nuevacasa)** | Busca propiedades en ZonaProp, MercadoLibre, RE/MAX y Argenprop, y las une con filtros comunes | Python · FastAPI · JS |
-| 🤖 | **MarTwin** · *pronto público* | Agente personal con chat, exportación de documentos e integración con Google Docs | Next.js · TypeScript |
-| 🔐 | **mini-vault** · *pronto público* | Bóveda local de contraseñas; lo copiado se borra del portapapeles a los 60 s | Tauri · Rust · JS |
-| 🌦️ | **mini-weather** · *pronto público* | Clima con pronóstico, globo 3D y alertas | Tauri · Cesium · JS |
+| 🏠 | **[nuevacasa](https://github.com/mrtinaja/nuevacasa)** · [API en vivo](https://nuevacasa.onrender.com/docs) | Busca propiedades en ZonaProp, MercadoLibre, RE/MAX y Argenprop, y las une con filtros comunes | Python · FastAPI · JS |
+| 🤖 | **[MarTwin](https://github.com/mrtinaja/MarTwin-Agent-Core)** | Agente personal con chat, exportación de documentos e integración con Google Docs | Next.js · TypeScript |
+| 🔐 | **[mini-vault](https://github.com/mrtinaja/mini-vault)** | Bóveda local de contraseñas; lo copiado se borra del portapapeles a los 60 s | Tauri · Rust · JS |
+| 🌦️ | **[mini-weather](https://github.com/mrtinaja/mini-weather)** | Clima con pronóstico, globo 3D y alertas | Tauri · Cesium · JS |
 | 💼 | **LabNexus** · *pronto público* | Buscador de empleos multiusuario con compatibilidad explicable | Python · FastAPI |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F172A,100:1E3A5F" width="100%" />
